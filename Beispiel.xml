@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schule name="Schule der Technik">
+    <abteilung name="IT">
+        <fach>
+            <name>Programmierung</name>
+            <lehrer>Herr Müller</lehrer>
+            <stunden>4</stunden>
+        </fach>
+        <fach>
+            <name>Netzwerktechnik</name>
+            <lehrer>Frau Schmidt</lehrer>
+            <stunden>3</stunden>
+        </fach>
+    </abteilung>
+    <abteilung name="Maschinenbau">
+        <fach>
+            <name>Konstruktionslehre</name>
+            <lehrer>Herr Wagner</lehrer>
+            <stunden>5</stunden>
+        </fach>
+        <fach>
+            <name>Werkstoffkunde</name>
+            <lehrer>Frau Bauer</lehrer>
+            <stunden>4</stunden>
+        </fach>
+    </abteilung>
+</schule>
