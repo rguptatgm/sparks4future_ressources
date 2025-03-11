@@ -1,0 +1,26 @@
+schule: "Schule der Technik"  # Skalare (einfache Werte)
+standort: "Wien"
+
+abteilungen:  # Gemappte Skalare (Key-Value-Paare)
+  informatik:
+    lehrkräfte:
+      - name: "Dr. Müller"
+        fächer: ["SEW", "INSY"]
+      - name: "Frau Schmidt"
+        fächer:
+          - Netzwerktechnik
+          - IT-Sicherheit
+  maschinenbau:
+    lehrkräfte:
+      - name: "Herr Wagner"
+        fächer:
+          - Mechanik
+          - CAD
+
+studierende:  # Sequenz (Liste von Einträgen)
+  - name: "Max Mustermann"
+    alter: 20
+    studiengang: "Informatik"
+  - name: "Lisa Beispiel"
+    alter: 22
+    studiengang: "Maschinenbau" 
