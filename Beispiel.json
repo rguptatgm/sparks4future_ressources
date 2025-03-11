@@ -1,0 +1,22 @@
+{
+  "student": {
+    "name": "Max Mustermann",
+    "age": 20,
+    "school": {
+      "name": "Schule der Technik",
+      "location": "Wien"
+    },
+    "subjects": [
+      {
+        "name": "Mathematik",
+        "grade": "Sehr Gut"
+      },
+      {
+        "name": "Informatik",
+        "grade": "Gut"
+      }
+    ],
+    "skills": ["Java", "Python", "SQL"],
+    "isGraduated": false
+  }
+}
